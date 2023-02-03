@@ -8,6 +8,5 @@ function solution(n) {
         }
         count++;
     }
-        
     return answer;
 }
